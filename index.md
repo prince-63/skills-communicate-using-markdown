@@ -20,3 +20,10 @@ var a = 10;
 var b = 20;
 var sum = a + b;
 ```
+
+1. What is your age?
+- [x] 10 or less
+- [ ] 20 or less
+- [ ] 30 or less
+- [ ] 40 or less
+- [ ] 41 or above
